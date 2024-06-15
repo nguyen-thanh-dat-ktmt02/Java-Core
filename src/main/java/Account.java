@@ -3,9 +3,9 @@ import java.time.LocalDate;
 public class Account {
     int AccountId;
     String email;
-    String Uesrname;
-    String Fullname;
+    String uesrName;
+    String fullName;
     Department department;
-    Position positionId;
+    Position position;
     LocalDate CreateDate;
 }
